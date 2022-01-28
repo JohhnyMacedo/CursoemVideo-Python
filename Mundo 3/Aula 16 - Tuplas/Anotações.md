@@ -10,4 +10,5 @@ Tuplas são um dos 3 tipos de variáveis compostas presentes em Python, sendo as
 * Existem também métodos inerentes à listas que podem ser utilizados nas tuplas.
 *OBS: essa anotação foi uma conclusão minha. Apesar de realmente serem comandos funcionais, posso estar errado quanto a serem comandos de lista*
 São eles:
-   * 
+   * max(). Compara os valores presentes na tupla e retorna o maior valor.
+   * min(). Compara os valores presentes na tupla e retorna o menor valor.
