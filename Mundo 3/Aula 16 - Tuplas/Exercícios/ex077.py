@@ -15,4 +15,4 @@ for palavra in tupla:
     for letra in palavra:
         if letra.lower() in 'aeiou':
             print(f'{letra.lower()}', end = '')
-# A grande sacada desse exercício é a percepção de que cada letra dentro de uma string pode ser visto como um elemento dentro de uma tupla. Ou seja, é possível analisar letra por letra ao criar um loop 'for' dentro de outro loop 'for'. O 1o loop têm como parâmetro cada elemento da tupla. Enquanto o 2o tem como parâmetro cada elemento da string, ou seja, cada letra.
+# A grande sacada desse exercício é a percepção de que cada letra dentro de uma string pode ser vista como um elemento dentro de uma tupla. Ou seja, é possível analisar letra por letra ao criar um loop 'for' dentro de outro loop 'for'. O 1o loop têm como parâmetro cada elemento da tupla. Enquanto o 2o tem como parâmetro cada elemento da string, ou seja, cada letra.
