@@ -1,5 +1,4 @@
 # Manipulação de Strings
----
 As anotações aqui presentes vão se resumir a uma listagem de comandos para a manipulação de strings. São eles:
 ## Fatiamento
 * Pra fatiar uma String (ou mesmo retirar um elemento de uma lista, tupla ou dicionário) é só escrever o nome da variável (aqui vamos usar 'exemplo') e logo após a posição do elemento a ser fatiado entre colchetes. `exemplo[9]`. 
